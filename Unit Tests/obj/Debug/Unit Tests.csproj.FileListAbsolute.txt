@@ -1,0 +1,19 @@
+C:\CycleRentalConsoleAppCSharp\Unit Tests\bin\Debug\Unit Tests.dll
+C:\CycleRentalConsoleAppCSharp\Unit Tests\bin\Debug\Unit Tests.pdb
+C:\CycleRentalConsoleAppCSharp\Unit Tests\bin\Debug\FluentAssertions.dll
+C:\CycleRentalConsoleAppCSharp\Unit Tests\bin\Debug\System.ValueTuple.dll
+C:\CycleRentalConsoleAppCSharp\Unit Tests\bin\Debug\xunit.abstractions.dll
+C:\CycleRentalConsoleAppCSharp\Unit Tests\bin\Debug\xunit.assert.dll
+C:\CycleRentalConsoleAppCSharp\Unit Tests\bin\Debug\xunit.core.dll
+C:\CycleRentalConsoleAppCSharp\Unit Tests\bin\Debug\xunit.execution.desktop.dll
+C:\CycleRentalConsoleAppCSharp\Unit Tests\bin\Debug\FluentAssertions.pdb
+C:\CycleRentalConsoleAppCSharp\Unit Tests\bin\Debug\FluentAssertions.xml
+C:\CycleRentalConsoleAppCSharp\Unit Tests\bin\Debug\System.ValueTuple.xml
+C:\CycleRentalConsoleAppCSharp\Unit Tests\bin\Debug\xunit.abstractions.xml
+C:\CycleRentalConsoleAppCSharp\Unit Tests\bin\Debug\xunit.assert.xml
+C:\CycleRentalConsoleAppCSharp\Unit Tests\bin\Debug\xunit.core.xml
+C:\CycleRentalConsoleAppCSharp\Unit Tests\bin\Debug\xunit.execution.desktop.xml
+C:\CycleRentalConsoleAppCSharp\Unit Tests\obj\Debug\Unit Tests.csprojResolveAssemblyReference.cache
+C:\CycleRentalConsoleAppCSharp\Unit Tests\obj\Debug\Unit Tests.csproj.CoreCompileInputs.cache
+C:\CycleRentalConsoleAppCSharp\Unit Tests\obj\Debug\Unit Tests.dll
+C:\CycleRentalConsoleAppCSharp\Unit Tests\obj\Debug\Unit Tests.pdb
