@@ -11,7 +11,6 @@ namespace CycleRental
         public double pricePerDay;
         public int noOfDays = 0;
         public bool isRented = false;
-        public DateTime rentedOn;
 
         public Cycle(int id, string brand, string name, double pricePerDay)
         {

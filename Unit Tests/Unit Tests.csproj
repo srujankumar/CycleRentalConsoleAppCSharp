@@ -71,6 +71,12 @@
   <ItemGroup>
     <Analyzer Include="..\packages\xunit.analyzers.0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CycleRentalConsoleAppCSharp\CycleRentalConsoleAppCSharp.csproj">
+      <Project>{BCB71169-005C-4B0A-8DC6-95457E21E1C2}</Project>
+      <Name>CycleRentalConsoleAppCSharp</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
